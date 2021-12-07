@@ -1,0 +1,5 @@
+C:\Users\abs_s\OneDrive\Área de Trabalho\RECODE\obj\Debug\net6.0\RECODE.csproj.AssemblyReference.cache
+C:\Users\abs_s\OneDrive\Área de Trabalho\RECODE\obj\Debug\net6.0\RECODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abs_s\OneDrive\Área de Trabalho\RECODE\obj\Debug\net6.0\RECODE.AssemblyInfoInputs.cache
+C:\Users\abs_s\OneDrive\Área de Trabalho\RECODE\obj\Debug\net6.0\RECODE.AssemblyInfo.cs
+C:\Users\abs_s\OneDrive\Área de Trabalho\RECODE\obj\Debug\net6.0\RECODE.csproj.CoreCompileInputs.cache

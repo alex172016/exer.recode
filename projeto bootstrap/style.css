@@ -1,0 +1,46 @@
+
+
+
+.navbar{
+ display: flex;
+ justify-content: space-evenly; 
+
+}
+.navbar a{
+    text-decoration:none;
+    font-size: 40;
+    color: rgb(255, 255, 255);
+    margin-left: 40;
+    margin-right: 40;
+    font-weight:bolder;
+    margin-top: 40;
+
+}
+header{
+    background: url(img/img03.jpg) no-repeat;
+    height: 80vh;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.575);
+    background-size: cover;
+ 
+}
+.carousel{
+    margin-top: 20;
+    margin-bottom: 20;
+    display: flex;
+    
+    flex-wrap: wrap;
+}
+
+.carousel img{
+    
+    width: 150px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0,465);
+    margin-top: 20;
+    margin-bottom: 10;
+    margin-left: 30;
+    
+
+}
